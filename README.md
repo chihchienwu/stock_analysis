@@ -37,7 +37,7 @@ On average, the original VBA script required 0.375 second to execute, as compare
 
 ## Summary
 
-In general, refactoring code allows the analyst to build-upon or repurpose the existing codes for new project at hand. By leveraged the existing code structure, the analyst can save tremendous of time he would have spent laying out the initial declaration and definition of each and every variables needed. Although refactoring code is generally encouraged from an effeciency standpoint, adhering to potentially outdated methodology or disorganized code strucuture can be disabling improvement and hindering creavtivity.
+In general, refactoring code allows the analyst to build-upon or repurpose the existing codes for new project at hand. By leveraged the existing code structure, the analyst can save tremendous amount of time he would have spent laying out the initial declaration and definition of each and every variables needed. Although refactoring code is generally encouraged from an effeciency standpoint, adhering to potentially outdated methodology or disorganized code strucuture can be disabling improvement and hindering creavtivity.
 
 While the original VBA script excelled in its simpilicty and ease for understanding, it lacked in efficiency (due to switching back and forth between the Data and Output tabs). On the flip side, the refactored VBA scripts significantly improved the run-time performance (due to first collecting all relevent data in the Data tab, then displaying summary in the Output tab). Althoguht it may come at a cost of additonal complexity, most will agree that it was a fair trade-off for an 85% improvement in effeciency. 
 
