@@ -10,7 +10,7 @@ The objective of the project is the compile script that summarizes the performac
 
 
 
-![]2017Performances.PNG
+![](2017Performances.PNG)
 
 
-![]2018Performances.PNG
+![](2018Performances.PNG)
